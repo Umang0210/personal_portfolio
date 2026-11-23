@@ -1,4 +1,4 @@
-/* ============================================
+﻿/* ============================================
    PORTFOLIO INTERACTIVITY — script.js
    ============================================ */
 
@@ -126,7 +126,6 @@
     // ---- Typing Effect ----
     const typingEl = document.getElementById('typingText');
     const phrases = [
-<<<<<<< HEAD
     'Engineering Intelligent Systems.',
     'Turning Data into Intelligence.',
     'Building AI-Powered Solutions.',
@@ -135,12 +134,6 @@
     'Automating the Future with AI.',
     'From Algorithms to Applications.',
     'Transforming Ideas into Technology.'
-=======
-        'Automating Insights. Deploying Decisions.',
-        'Building Scalable Data Pipelines.',
-        'From Raw Data to Business Impact.',
-        'ML Models in Production.'
->>>>>>> 81b013146fc1c46d51082ed96ead9f967e2024b3
     ];
     let phraseIndex = 0;
     let charIndex = 0;

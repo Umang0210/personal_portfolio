@@ -1,4 +1,4 @@
-/* ============================================
+﻿/* ============================================
    DESIGN SYSTEM — Monochrome Portfolio
    ============================================ */
 
@@ -472,7 +472,6 @@ em { font-style: italic; }
 }
 
 .highlight-icon {
-<<<<<<< HEAD
     width: 2.25rem;
     height: 2.25rem;
     display: flex;
@@ -485,9 +484,6 @@ em { font-style: italic; }
     letter-spacing: 0.08em;
     color: var(--white);
     background: var(--dark-3);
-=======
-    font-size: 1.5rem;
->>>>>>> 81b013146fc1c46d51082ed96ead9f967e2024b3
     margin-bottom: 0.75rem;
 }
 
@@ -689,7 +685,6 @@ em { font-style: italic; }
     background: var(--dark-3);
 }
 
-<<<<<<< HEAD
 .project-links {
     display: flex;
     align-items: center;
@@ -714,8 +709,6 @@ em { font-style: italic; }
     border-color: var(--grey-dark);
 }
 
-=======
->>>>>>> 81b013146fc1c46d51082ed96ead9f967e2024b3
 .project-title {
     font-size: 1.125rem;
     font-weight: 700;
@@ -814,7 +807,6 @@ em { font-style: italic; }
 }
 
 .skill-icon {
-<<<<<<< HEAD
     width: 1.75rem;
     height: 1.75rem;
     flex: 0 0 1.75rem;
@@ -827,9 +819,6 @@ em { font-style: italic; }
     font-weight: 700;
     color: var(--white);
     background: var(--dark-3);
-=======
-    font-size: 1.25rem;
->>>>>>> 81b013146fc1c46d51082ed96ead9f967e2024b3
 }
 
 .skill-items {
@@ -880,7 +869,6 @@ em { font-style: italic; }
 }
 
 .achievement-icon {
-<<<<<<< HEAD
     width: 2.5rem;
     height: 2.5rem;
     display: flex;
@@ -893,9 +881,6 @@ em { font-style: italic; }
     letter-spacing: 0.08em;
     color: var(--white);
     background: var(--dark-3);
-=======
-    font-size: 2rem;
->>>>>>> 81b013146fc1c46d51082ed96ead9f967e2024b3
     margin-bottom: 1rem;
 }
 
@@ -973,10 +958,7 @@ em { font-style: italic; }
 }
 
 .edu-card {
-<<<<<<< HEAD
     grid-column: 1 / -1;
-=======
->>>>>>> 81b013146fc1c46d51082ed96ead9f967e2024b3
     padding: 2rem;
     background: var(--dark-2);
     border: 1px solid var(--dark-3);
